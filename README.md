@@ -55,7 +55,7 @@
                     <script>
                         for (let i = 1; i <= 406; i++) {
                             const episodeLink = document.createElement('a');
-                            episodeLink.href = `https://www.youtube.com/watch?v=PLzy-IJg4_4&ab_channel=PopMov`;
+                            episodeLink.href = `https://youtu.be/Dlw1leiHLI0`;
                             episodeLink.textContent = `Episode ${i}`;
                             
                             const listItem = document.createElement('li');
